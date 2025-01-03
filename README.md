@@ -1,0 +1,1 @@
+This Dockerfile uses the slim alpine image which is prone to dependency issues. The solution provided replaces it with a more robust image, ensuring all application dependencies are correctly installed and executed without conflicts.
